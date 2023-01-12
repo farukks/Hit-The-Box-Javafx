@@ -1,0 +1,12 @@
+
+Mirror,4,4
+Wood,4,5
+Mirror,5,5
+Wood,5,4
+
+Wood,3,3
+Mirror,6,3
+Wood,6,6
+Mirror,3,6
+
+// easter egg 2 !! welcome to our level 6.
